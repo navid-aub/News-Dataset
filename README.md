@@ -40,7 +40,7 @@ dataset_directory = "C:/dataset_folder/" #Change this according to your director
 
 chatgpt_news = pd.read_pickle(dataset_directory+chatgpt.csv)
 llama2_7b_news = pd.read_pickle(dataset_directory+llama2_7b.csv)
-llama2_13b_news = pd.read_pickle(dataset_directory+llama2_13b.csv
+llama2_13b_news = pd.read_pickle(dataset_directory+llama2_13b.csv)
 mistral_news = pd.read_pickle(dataset_directory+mistral_7b.csv)
 
 #Original human-wirren articles:
