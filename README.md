@@ -13,15 +13,23 @@ This dataset comprises 3000 news articles sourced from reputable outlets, includ
 
 ## Columns' guidance:
 
-agency: The source outlet of the news article.
-title: The title of the news article.
-main: The original human-written news article.
-words: The word count of the original article.
-topic: The main topic of the news article specified using BERTopic.
-rephrase: LLM counterpart of the original news article generated using "Article Rephrasing" strategy.
-expanded: LLM counterpart of the original news article generated using "Article Extending" strategy.
-summary: The summary of the original aricle.
-summary_expanded: LLM counterpart of the original news article generated using " Summary Expanding" strategy.
+$\textcolor{lime}{agency\\; }$: The source outlet of the news article.
+
+$\textcolor{lime}{title \\;}$: The title of the news article.
+
+$\textcolor{lime}{main \\;}$: The original human-written news article.
+
+$\textcolor{lime}{words \\;}$: The word count of the original article.
+
+$\textcolor{lime}{topic \\;}$: The main topic of the news article specified using BERTopic.
+
+$\textcolor{lime}{rephrase \\;}$: LLM counterpart of the original news article generated using "Article Rephrasing" strategy.
+
+$\textcolor{lime}{expanded \\;}$: LLM counterpart of the original news article generated using "Article Extending" strategy.
+
+$\textcolor{lime}{summary \\;}$: The summary of the original aricle.
+
+$\textcolor{lime}{summary\\_expanded \\;}$: LLM counterpart of the original news article generated using " Summary Expanding" strategy.
 
 
 ## Files' guidance:
