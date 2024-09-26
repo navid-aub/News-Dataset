@@ -54,7 +54,7 @@ llama2_7b_news = pd.read_pickle(dataset_directory+'llama2_7b.csv')
 llama2_13b_news = pd.read_pickle(dataset_directory+'llama2_13b.csv')
 mistral_news = pd.read_pickle(dataset_directory+'mistral_7b.csv')
 
-#Original human-wirren articles:
+#Original Human-Authored News Articles:
 HANA = chatgpt_news['main']
 ```
 
